@@ -51,6 +51,8 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
+| Tal Galili | Doing a PhD in statistics at Tel-Aviv University, loves decision trees and dendrograms | http://r-statistics.com/ | | [![profile for Tal Galili at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/256662.png "profile for Tyler Rinker at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/256662/tal-galili) | [Github](https://github.com/talgalili) | [R Bloggers](http://www.r-bloggers.com/author/tal-galili/) | [@talgalili](https://twitter.com/talgalili) |
+
 
 ------------
 
